@@ -9,7 +9,8 @@
 #import "MPArgumentProcessor.h"
 #import <GBCli/GBCli.h>
 #import "MPGlobals.h"
-
+static const char * const kMPApplicationShortVersion = "0.7.2d183";
+static const char * const kMPApplicationBundleVersion = "1053";
 
 @interface MPArgumentProcessor ()
 
